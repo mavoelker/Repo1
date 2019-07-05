@@ -78,6 +78,7 @@ namespace Calculator
                 Console.WriteLine("\ts - Subtract");
                 Console.WriteLine("\tm - Multiply");
                 Console.WriteLine("\td - Divide");
+                Console.WriteLine("\t\tvon Markus Völker");
                 Console.Write("Your option? ");
 
                 string op = Console.ReadLine();
